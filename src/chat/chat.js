@@ -41,7 +41,7 @@ export default class Chat extends Component {
                        ref={(input) => { this.input = input }}
                        onKeyPress={this.handleKeyPress}/>
 
-                <a class="banner" href="https://github.com/idoco/intergram" target="_blank">
+                <a class="banner" href="https://github.com/protozoa14/intergram" target="_blank">
                     Powered by <b>Openwifi</b>&nbsp;
                 </a>
             </div>
